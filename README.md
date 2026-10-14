@@ -73,6 +73,31 @@ I enjoy learning by **building real projects**, solving problems, experimenting 
 * Chrome DevTools
 
 ---
+# 🚀 No 1 Featured Projects
+
+## 💪 বাজার দর - প্রয়োজনীয় পন্যের সমাসার
+
+A modern fitness application built with **Next.js** that helps users explore exercises and manage their workout plans.
+
+### Tech Used
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Context API` `Local Storage`
+
+### Highlights
+
+* 🏋️ Exercise library
+* 📋 Workout planning
+* 🔥 Fitness-focused UI
+* 💾 Local storage data persistence
+* 📱 Fully responsive design
+* ⚡ Modern Next.js architecture
+* 🚀 Deployed with Vercel
+
+🔗 **Live Demo:** https://bazar-dor-khaki-tau.vercel.app/
+🔗 **Source Code:** https://github.com/mayeendu/b14-a7-bazardor.git
+
+
+---
 
 # 🚀 Featured Projects
 
